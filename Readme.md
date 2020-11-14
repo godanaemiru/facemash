@@ -2,6 +2,9 @@
 
 This is an implementation of the facemash website shown in the film "__The Social Network__". 
 
+
+![alt text](https://github.com/godanaemiru/Kulika/blob/master/images/Screenshot%20from%202020-08-09%2015-34-03.png?raw=true "true")
+
 I used the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to rank the images.
 
 images.sql is the sql dump of the "images" table that the php code needs. The scripts folder has some php scripts I used to populate the table with links to images.
