@@ -1,6 +1,6 @@
 # Facemash
 
-This is my implementation of the facemash website shown in the film "__The Social Network__". 
+This is an implementation of the facemash website shown in the film "__The Social Network__". 
 
 I used the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to rank the images.
 
