@@ -35,4 +35,4 @@ images.sql is the sql dump of the "images" table that the php code needs. The sc
 
 ## todos
 
-edit the styling of the ranking page
+Edit the styling of the ranking page
