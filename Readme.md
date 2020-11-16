@@ -31,3 +31,8 @@ images.sql is the sql dump of the "images" table that the php code needs. The sc
     * update.php
 
  6. Start apache and visit http://localhost.
+
+
+## todos
+
+edit the styling of the ranking page
