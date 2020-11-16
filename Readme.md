@@ -3,7 +3,7 @@
 This is an implementation of the facemash website shown in the film "__The Social Network__". 
 
 
-![alt text](https://github.com/godanaemiru/facemash/blob/master/images/Screenshot%20from%202020-11-14%2017-07-07.png?raw=true "true")
+![alt text](https://github.com/godanaemiru/facemash/blob/master/images/Screenshot%20from%202020-11-16%2015-45-32.png?raw=true "true")
 
 I used the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to rank the images.
 
